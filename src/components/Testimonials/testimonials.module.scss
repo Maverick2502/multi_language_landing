@@ -1,0 +1,194 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+
+.sticky {
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  top: 150px;
+}
+
+.testimonials {
+  margin-top: -130px;
+  padding: 100px;
+
+  min-height: 100vh;
+
+  @media (max-width: $breakpoint-lg) {
+    display: none;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    display: none;
+  }
+
+  &_inner {
+    display: flex;
+
+    max-width: 1300px;
+    margin: 0 auto;
+
+    &_left {
+      flex: 35%;
+      margin-top: 150vh;
+      min-height: 100vh;
+      margin-bottom: 5vh;
+    }
+
+    &_center {
+      flex: auto;
+
+      display: flex;
+      flex-direction: column;
+      padding: 0;
+      top: 0px;
+
+      margin-top: 70vh;
+      margin-bottom: 15vh;
+    }
+
+    &_right {
+      flex: 35%;
+      margin-top: 150vh;
+      min-height: 100vh;
+      margin-bottom: 5vh;
+    }
+  }
+}
+
+.card {
+  border-radius: 20px;
+  background: #1c1d21;
+
+  padding: 24px;
+
+  max-width: 280px;
+  min-width: 280px;
+  max-height: 168px;
+
+  &_inner {
+    display: flex;
+    flex-direction: column;
+
+    &_top {
+      display: flex;
+      flex-direction: row;
+
+      gap: 16px;
+
+      &_column {
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        line-height: 100%;
+        margin-bottom: 16px;
+
+        & > span {
+          color: #a8a8a8;
+          font-size: 12px;
+          font-style: normal;
+          font-weight: 600;
+        }
+      }
+    }
+
+    &_bottom {
+      color: #f1f1f1;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 100%;
+    }
+  }
+}
+
+.cardPayments {
+  border-radius: 20px;
+  background: #1c1d21;
+
+  min-width: 260px;
+  max-width: 260px;
+  min-height: 80px;
+  max-height: 80px;
+
+  padding: 24px;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  gap: 12px;
+
+  &_inner {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+    & > span:nth-child(1) {
+      font-size: 12px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 100%;
+      color: #a8a8a8;
+    }
+
+    & > span:nth-child(2) {
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 120%;
+    }
+  }
+}
+
+.popup {
+  // Styling for the card on the <left> side
+  &_left {
+    &_one {
+      @include position_element(center);
+    }
+
+    &_two {
+      margin-left: 50px;
+      margin-top: 135px;
+    }
+
+    &_three {
+      @include position_element(center);
+      margin-top: 120px;
+    }
+
+    &_four {
+      margin-top: 120px;
+    }
+
+    &_five {
+      @include position_element(center);
+      margin-left: 50px;
+      margin-top: 100px;
+    }
+  }
+
+  // Styling for the card on the <right> side
+  &_right {
+    &_two {
+      margin-left: 50px;
+      margin-top: 85px;
+    }
+
+    &_three {
+      @include position_element(center);
+      margin-top: 120px;
+    }
+
+    &_four {
+      margin-left: 50px;
+      margin-top: 130px;
+    }
+
+    &_five {
+      @include position_element(flex-start, center);
+      margin-top: 100px;
+    }
+  }
+}

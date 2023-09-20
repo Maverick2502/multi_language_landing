@@ -1,0 +1,180 @@
+@import "../../styles/variables";
+@import "../../styles/mixins";
+
+.container {
+  @media (max-width: $breakpoint-sm) {
+    background-color: transparent !important;
+  }
+}
+
+.sellingPoints {
+  max-width: $desktop-width;
+  margin: 0 auto;
+  padding: $padding;
+
+  @media (max-width: $breakpoint-lg) {
+    max-width: $tablet-width;
+    padding: $padding-md-lg-sm;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    max-width: $mobile-width;
+    padding: $padding-md-lg-sm;
+
+    box-sizing: content-box;
+  }
+
+  &_cards {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    gap: 130px 20px;
+
+    place-content: center;
+
+    @media (max-width: $breakpoint-lg) {
+      grid-template-columns: repeat(2, 2fr);
+
+      gap: 80px 12px;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+      grid-template-columns: repeat(1, 300px);
+      gap: 24px;
+    }
+  }
+}
+
+.card {
+  height: 620px;
+  padding: 40px;
+
+  border-radius: $border-radius;
+
+  position: relative;
+  overflow: hidden;
+
+  @media (max-width: $breakpoint-lg) {
+    height: 372px;
+    max-width: $tablet-width;
+    padding: 20px;
+
+    border-radius: $border-radius-lg;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    height: 360px;
+    max-width: mobile-width;
+    padding: 20px;
+
+    border-radius: $border-radius-sm;
+  }
+
+  &_orangeBg {
+    background-color: $brand-color;
+    color: #fff;
+
+    & > span {
+      font-size: 62px;
+      font-style: normal;
+      font-weight: 700;
+
+      @media (max-width: $breakpoint-lg) {
+        font-size: 32px;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        font-size: 34px;
+      }
+    }
+  }
+
+  &_whiteBg {
+    background-color: #fff;
+
+    & > span {
+      color: $primary-text-color;
+      font-size: 56px;
+      font-style: normal;
+      font-weight: 700;
+
+      @media (max-width: $breakpoint-lg) {
+        font-size: 32px;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        font-size: 32px;
+      }
+    }
+  }
+
+  &_image {
+    position: absolute;
+
+    &_one {
+      margin: 0 auto;
+      right: 0;
+      left: 0;
+      bottom: 40px;
+
+      @media (max-width: $breakpoint-lg) {
+        width: 255px;
+        bottom: -16px;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        width: 216px;
+        bottom: -16px;
+      }
+    }
+
+    &_two {
+      right: 0;
+      bottom: -30px;
+
+      @media (max-width: $breakpoint-lg) {
+        width: 264px;
+        height: 238px;
+
+        right: 0px;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        width: 223px;
+        bottom: -16px;
+      }
+    }
+
+    &_three {
+      right: -40px;
+      bottom: -60px;
+
+      @media (max-width: $breakpoint-lg) {
+        width: 344px;
+        height: 287px;
+
+        right: 0;
+        bottom: 0;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        width: 290px;
+        bottom: -16px;
+      }
+    }
+
+    &_four {
+      bottom: -10px;
+      right: 40px;
+
+      @media (max-width: $breakpoint-lg) {
+        width: 280px;
+        height: 210px;
+      }
+
+      @media (max-width: $breakpoint-sm) {
+        width: 238px;
+        bottom: -16px;
+      }
+    }
+  }
+}

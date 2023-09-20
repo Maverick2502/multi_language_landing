@@ -1,0 +1,19 @@
+@import "../../styles/variables";
+
+.container {
+  min-height: 100vh;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 130px;
+
+  @media (max-width: $breakpoint-lg) {
+    gap: 80px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    gap: 60px;
+  }
+}

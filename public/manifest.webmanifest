@@ -1,0 +1,16 @@
+{
+  "short_name": "Хумо Переводы",
+  "name": "Хумо Переводы — Быстрые и надежные переводы | Хумо",
+  "description": "Оплачивайте мобильную связь, интернет,коммунальные услуги и многое другое. Отправляйте деньги родным на карты Visa, Корти Милли",
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#da532c",
+  "background_color": "#da532c",
+  "icons": [
+    {
+      "src": "./favicon/favicon-16x16.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    }
+  ]
+}

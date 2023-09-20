@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: tj\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:13
+msgid "advantage_one"
+msgstr "Интиқоли маблағ бо қурби мусоид"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:25
+msgid "advantage_three"
+msgstr "Ҳифзи маълумоти шахсии шумо"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:19
+msgid "advantage_two"
+msgstr "Комиссия аз 0% то 2,5% барои интиқол"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:35
+msgid "advantages_heading"
+msgstr "Афзалиятҳои барнома"
+
+#: src/components/Download/Download.tsx:21
+msgid "app_humo_transfers"
+msgstr "Барномаи Хумо Переводы"
+
+#: src/components/Banner/Banner.tsx:42
+msgid "banner_sub_tagline"
+msgstr "Ба 20+ кишвари ҷаҳон тавассути системаҳои машҳур пул фиристед"
+
+#: src/components/Banner/Banner.tsx:38
+msgid "banner_tagline"
+msgstr "Ҳама интиқоли маблағҳо дар як барнома"
+
+#: src/components/Testimonials/Testimonials.tsx:194
+msgid "currency_name_tj"
+msgstr "сомони"
+
+#: src/components/Banner/Banner.tsx:51
+msgid "download_app"
+msgstr "Сабт кардан"
+
+#: src/components/Layout/Footer/Footer.tsx:61
+msgid "faq_answer_five"
+msgstr "Агар аз фиристодани пул чанд соат гузашта бошад, хавотир нашавед. Шояд транзактсия дар коркард аст. Бо телефони (+992) 88-777-55-44 ё 544 бо мо тамос гиред ё паём нависед. Мутахассисони мо ба шумо ҳатман кӯмак мекунанд."
+
+#: src/components/Layout/Footer/Footer.tsx:50
+msgid "faq_answer_four"
+msgstr "Дар аксари ҳолатҳо мо пулро фавран мефиристем. Таваҷҷӯҳ намоед, ки вақти зарурӣ барои анҷом додани интиқол аз бонке, ки маблағро қабул мекунад, вобаста аст. Барои ҳамин, дар ҳолатҳои кам интиқоли пул метавонад то 3 рӯз тӯл кашад."
+
+#: src/components/Layout/Footer/Footer.tsx:20
+msgid "faq_answer_one"
+msgstr "Комиссия барои интиқоли маблағ метавонад вобаста ба кишвар ва навъи интиқол фарқ кунад - аз 0 то 2,5%. Маблағи дақиқи комиссия дар дохили барнома пеш аз тасдиқи интиқол нишон дода мешавад."
+
+#: src/components/Layout/Footer/Footer.tsx:84
+msgid "faq_answer_seven"
+msgstr "Тамоми чораҳоро барои ҳифзи пул ва маълумоти шахсии шумо меандешем. Аммо барои бехатарии пурра ин қоидаҳоро риоя кунед:"
+
+#: src/components/Layout/Footer/Footer.tsx:108
+msgid "faq_answer_seven_sub_five"
+msgstr "- Барои муҳофизати иловагӣ дар телефони худ парол гузоред."
+
+#: src/components/Layout/Footer/Footer.tsx:103
+msgid "faq_answer_seven_sub_four"
+msgstr "- Агар рақами телефони худро иваз карда бошед, бо рақами 544 ба мо хабар диҳед;"
+
+#: src/components/Layout/Footer/Footer.tsx:89
+msgid "faq_answer_seven_sub_one"
+msgstr "- Ҳеҷ гоҳ пароли худро барои ворид шудан ба барномаи мобилӣ ба касе надиҳед;"
+
+#: src/components/Layout/Footer/Footer.tsx:100
+msgid "faq_answer_seven_sub_three"
+msgstr "- Агар телефони худро гум кунед, фавран SIM-кортро маҳкам кунед;"
+
+#: src/components/Layout/Footer/Footer.tsx:94
+msgid "faq_answer_seven_sub_two"
+msgstr "- Танҳо барномаҳои расмии бонкро дар Google Play ва App Store барои сабт кардан ба телефонҳои Android ва iOS истифода баред;"
+
+#: src/components/Layout/Footer/Footer.tsx:72
+msgid "faq_answer_six"
+msgstr "Албатта. Мо дар бораи ҳифз ва махфияти маълумоти шумо ғамхорӣ мекунем. Ҳама амалиёти молиявӣ дар барномаи мо бо истифода аз технологияҳои муосири рамзгузорӣ ҳифз карда мешаванд. Қонун ва қоидаҳоро дар бораи ҳифзи маълумот риоя карда, бехатарии интиқолҳои шуморо таъмин кунем."
+
+#: src/components/Layout/Footer/Footer.tsx:41
+msgid "faq_answer_three"
+msgstr "Маблағи камтарини интиқол 500 рубл ва зиёдатрин - 50 000 рубл аст."
+
+#: src/components/Layout/Footer/Footer.tsx:30
+msgid "faq_answer_two"
+msgstr "Бале. Комиссия барои интиқоли пул аз Русия ба Тоҷикистон 0,5% аст. Инчунин, бонкҳои дигаре, ки ба кортҳояшон пул мефиристед, метавонанд комиссия гиранд. Барои фаҳмидани андозаи комиссияи бонки дигар ба мо нависед."
+
+#: src/components/Layout/Footer/Footer.tsx:136
+msgid "faq_heading"
+msgstr "Саволҳои машҳур"
+
+#: src/components/Layout/Footer/Footer.tsx:59
+msgid "faq_question_five"
+msgstr "Агар гиранда интиқолро ҳанӯз нагирифта бошад, чӣ кор кунам?"
+
+#: src/components/Layout/Footer/Footer.tsx:48
+msgid "faq_question_four"
+msgstr "Ман бо барномаи шумо пул фиристодам. Кай маблағ дар дасти гиранда мешавад?"
+
+#: src/components/Layout/Footer/Footer.tsx:18
+msgid "faq_question_one"
+msgstr "Комиссия барои интиқол чанд аст?"
+
+#: src/components/Layout/Footer/Footer.tsx:81
+msgid "faq_question_seven"
+msgstr "Барои бехатарии маълумоти шахсиам ман боз чӣ кор карда метавонам?"
+
+#: src/components/Layout/Footer/Footer.tsx:70
+msgid "faq_question_six"
+msgstr "Оё бо шумо пул фиристодан бехатар аст?"
+
+#: src/components/Layout/Footer/Footer.tsx:39
+msgid "faq_question_three"
+msgstr "Маҳдудиятҳои интиқол чӣ гунаанд?"
+
+#: src/components/Layout/Footer/Footer.tsx:28
+msgid "faq_question_two"
+msgstr "Ҳангоми интиқоли пул аз Русия ба Тоҷикистон комиссия мегиред?"
+
+#: src/components/Layout/Footer/Footer.tsx:346
+msgid "footer_address"
+msgstr "734061, Душанбе, к. Н.Қарабоев, 148/1. "
+
+#: src/components/Layout/Footer/Footer.tsx:341
+msgid "footer_description"
+msgstr "Яке аз муассисаҳои маблағгузории хурди пешрафта ва пешбари Тоҷикистон, ки ба зиёда аз 100 000 муштарӣ хизматрасониҳои бонкӣ мерасонад."
+
+#: src/components/Layout/Footer/Footer.tsx:349
+msgid "footer_hotline"
+msgstr "Тел: 544"
+
+#: src/components/Layout/Footer/Footer.tsx:354
+msgid "footer_license"
+msgstr "ҶСП ТАҚХ Ҳумо Иҷозатномаи БМТ № 0000077 аз 24 майи соли 2017"
+
+#: src/components/Layout/Footer/Footer.tsx:266
+msgid "hotline"
+msgstr "Телефони боварии Ҳумо"
+
+#: src/pages/index.tsx:32
+#: src/pages/index.tsx:34
+msgid "meta_description"
+msgstr "Интиқоли пул ба оила ва наздикон ба 20 давлати ҷаҳон. Системаҳои Visa, Mastercard, Корти Милли, Мир, ва Uzcard дастрасанд. Қурби муфид ва комиссия камтарин барои интиқол."
+
+#: src/pages/index.tsx:37
+#: src/pages/index.tsx:41
+msgid "meta_site_name"
+msgstr "Ҳумо Переводы"
+
+#: src/pages/index.tsx:33
+#: src/pages/index.tsx:48
+msgid "meta_title"
+msgstr "Интиқоли маблағ - зуд ва бо комиссияи паст | Ҳумо Переводы"
+
+#: src/components/Layout/Footer/Footer.tsx:333
+msgid "product_agent_banking"
+msgstr "Агентии бонкӣ"
+
+#: src/components/Layout/Footer/Footer.tsx:278
+msgid "product_humo"
+msgstr "Ҳумо"
+
+#: src/components/Layout/Footer/Footer.tsx:289
+msgid "product_humo_online"
+msgstr "Ҳумо Онлайн"
+
+#: src/components/Layout/Footer/Footer.tsx:311
+msgid "product_orzu"
+msgstr "Орзу"
+
+#: src/components/Layout/Footer/Footer.tsx:300
+msgid "product_sarchashma"
+msgstr "Амонат – Сарчашма"
+
+#: src/components/Layout/Footer/Footer.tsx:322
+msgid "product_visa"
+msgstr "Картҳои Visa"
+
+#: src/components/Testimonials/Testimonials.tsx:114
+msgid "review_one"
+msgstr "Бо ин барнома пулро бо як чанд клик метавонам интиқол кунам. Содда ва зуд."
+
+#: src/components/Testimonials/Testimonials.tsx:208
+msgid "review_two"
+msgstr "Ин барнома - беҳтарин роҳи фиристодани пул бе ягон мушкилӣ."
+
+#: src/components/Testimonials/Testimonials.tsx:66
+msgid "reviews"
+msgstr "Аз мизоҷ"
+
+#: src/components/Download/Download.tsx:46
+msgid "scan_qr"
+msgstr "Камераро кушода барномаро сабт намоед"
+
+#: src/components/SellingPoints/SellingPoints.tsx:67
+msgid "selling_point_four"
+msgstr "5 системаи пардохт ба интихоби шумо"
+
+#: src/components/SellingPoints/SellingPoints.tsx:21
+msgid "selling_point_one"
+msgstr "Яке аз муфидтарин қурбҳо дар бозор"
+
+#: src/components/SellingPoints/SellingPoints.tsx:52
+msgid "selling_point_three"
+msgstr "Барномаи бисёрзабона"
+
+#: src/components/SellingPoints/SellingPoints.tsx:37
+msgid "selling_point_two"
+msgstr "Комиссияи камтарин барои интиқол"
+
+#: src/components/Testimonials/Testimonials.tsx:121
+#: src/components/Testimonials/Testimonials.tsx:141
+#: src/components/Testimonials/Testimonials.tsx:183
+#: src/components/Testimonials/Testimonials.tsx:193
+msgid "topup"
+msgstr "Пур кардан"
+
+#: src/components/Testimonials/Testimonials.tsx:131
+#: src/components/Testimonials/Testimonials.tsx:151
+#: src/components/Testimonials/Testimonials.tsx:203
+#: src/components/Testimonials/Testimonials.tsx:215
+msgid "transfer_to"
+msgstr "Интиқол ба"
+
+#: src/components/Testimonials/Testimonials.tsx:152
+msgid "transfer_to_germany"
+msgstr "Олмон"
+
+#: src/components/Testimonials/Testimonials.tsx:216
+msgid "transfer_to_malaysia"
+msgstr "Малайзия"
+
+#: src/components/Testimonials/Testimonials.tsx:132
+msgid "transfer_to_south_korea"
+msgstr "Кореяи ҷанубӣ"
+
+#: src/components/Testimonials/Testimonials.tsx:204
+msgid "transfer_to_turkey"
+msgstr "Туркия"
+
+#: src/components/Tutorial/Tutorial.tsx:71
+msgid "tutorial_heading_one"
+msgstr "Давлатро интихоб кунед"
+
+#: src/components/Tutorial/Tutorial.tsx:116
+msgid "tutorial_heading_three"
+msgstr "Маълумоти гиранда ворид кунед"
+
+#: src/components/Tutorial/Tutorial.tsx:95
+msgid "tutorial_heading_two"
+msgstr "Навъи интиқолро интихоб кунед"
+
+#: src/components/Tutorial/Tutorial.tsx:75
+msgid "tutorial_sub_heading_one"
+msgstr "Метавонед аз рӯйхати машҳурҳо интихоб намоед. Агар дигар давлат лозим бошад, тугмаи «Фиристодани интиқол»-ро пахш кунед. Рӯйхати ҳамаи давлатҳои дастрас пайдо мешавад."
+
+#: src/components/Tutorial/Tutorial.tsx:119
+msgid "tutorial_sub_heading_three"
+msgstr "Ин маълумотро барои анҷом додани интиқол ворид кунед. Ҳисобро барои фиристодани пулро интихоб намоед. Маблағи интиқолро ворид ва тасдиқ кунед. Тамом, пул дар дасти гиранда аст."
+
+#: src/components/Tutorial/Tutorial.tsx:98
+msgid "tutorial_sub_heading_two"
+msgstr "Навъи интиқоли лозимаро муайян кунед: тавассути рақами телефон ё ба корти бонкӣ. «Давом додан»-ро пахш кунед."
+
+#: src/components/Tutorial/Tutorial.tsx:65
+msgid "tutorials_heading"
+msgstr "Тарзи интиқоли маблағ"

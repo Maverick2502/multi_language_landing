@@ -1,0 +1,40 @@
+@import "./normalize";
+@import "./_variables";
+@import "./mixins";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #e9e9e9;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #bcc0be;
+    border-radius: 4px;
+    &:hover {
+      background: rgb(148, 153, 150);
+    }
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  max-width: 100vw;
+  font-family: var(--font-golos_text), sans-serif;
+  background: $bg-color;
+}

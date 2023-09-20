@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ru\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:13
+msgid "advantage_one"
+msgstr "Перевод денег по выгодному курсу"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:25
+msgid "advantage_three"
+msgstr "Безопасность ваших личных данных"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:19
+msgid "advantage_two"
+msgstr "Комиссия от 0% до 2,5% за отправку денег"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:35
+msgid "advantages_heading"
+msgstr "Преимущества приложения"
+
+#: src/components/Download/Download.tsx:21
+msgid "app_humo_transfers"
+msgstr "Приложение Хумо Переводы"
+
+#: src/components/Banner/Banner.tsx:42
+msgid "banner_sub_tagline"
+msgstr "Переводите деньги в 20+ стран мира через популярные платежные системы"
+
+#: src/components/Banner/Banner.tsx:38
+msgid "banner_tagline"
+msgstr "Одно приложение для всех переводов"
+
+#: src/components/Testimonials/Testimonials.tsx:194
+msgid "currency_name_tj"
+msgstr "сомони"
+
+#: src/components/Banner/Banner.tsx:51
+msgid "download_app"
+msgstr "Скачать"
+
+#: src/components/Layout/Footer/Footer.tsx:61
+msgid "faq_answer_five"
+msgstr "Если ваши деньги не дошли до получателя и прошло уже несколько часов, не волнуйтесь. Возможно, транзакция ещё не обработана. Свяжитесь с нашим контактным центром по номеру (+992) 88-777-55-44 или 544. Вы также можете написать нам через раздел Помощь в приложении. Наши специалисты обязательно помогут вам."
+
+#: src/components/Layout/Footer/Footer.tsx:50
+msgid "faq_answer_four"
+msgstr "В большинстве случаев мы отправляем деньги мгновенно. Следует учитывать, что время, необходимое для выполнения перевода, зависит от банка, который выпустил карту получателя денег. Поэтому, в редких случаях перевод денег может занять до 3-х дней."
+
+#: src/components/Layout/Footer/Footer.tsx:20
+msgid "faq_answer_one"
+msgstr "Комиссия за денежный перевод может меняться в зависимости от страны и способа перевода - от 0 до 2,5 %. Точный размер комиссии будет указан внутри приложения перед подтверждением перевода."
+
+#: src/components/Layout/Footer/Footer.tsx:84
+msgid "faq_answer_seven"
+msgstr "Мы делаем всё, чтобы защитить ваши деньги и персональные данные при работе в приложении. Но для полной безопасности соблюдайте следующие правила:"
+
+#: src/components/Layout/Footer/Footer.tsx:108
+msgid "faq_answer_seven_sub_five"
+msgstr "- Установите пароль на своем телефоне для дополнительной защиты."
+
+#: src/components/Layout/Footer/Footer.tsx:103
+msgid "faq_answer_seven_sub_four"
+msgstr "- Если вы сменили номер телефона, сообщите об этом банку, позвонив по номеру 544;"
+
+#: src/components/Layout/Footer/Footer.tsx:89
+msgid "faq_answer_seven_sub_one"
+msgstr "- Никогда и никому не передавайте пароль для входа в мобильное приложение;"
+
+#: src/components/Layout/Footer/Footer.tsx:100
+msgid "faq_answer_seven_sub_three"
+msgstr "- Если вы потеряли телефон, срочно заблокируйте сим-карту;"
+
+#: src/components/Layout/Footer/Footer.tsx:94
+msgid "faq_answer_seven_sub_two"
+msgstr "- Используйте только официальные приложения банка, доступные в Google Play и App Store для загрузки на устройства Android и iOS;"
+
+#: src/components/Layout/Footer/Footer.tsx:72
+msgid "faq_answer_six"
+msgstr "Конечно. Мы заботимся о безопасности и конфиденциальности ваших данных. Все финансовые операции в нашем приложении защищены с использованием современных технологий шифрования данных. Мы строго соблюдаем законы и требования в области защиты данных и конфиденциальности, чтобы гарантировать безопасность ваших переводов."
+
+#: src/components/Layout/Footer/Footer.tsx:41
+msgid "faq_answer_three"
+msgstr "Минимальная сумма перевода составляет 500 рублей, максимальная сумма - 50 000 рублей."
+
+#: src/components/Layout/Footer/Footer.tsx:30
+msgid "faq_answer_two"
+msgstr "Да. Комиссия за перевод денег из России в Таджикистан составляет 0,5%. Также комиссию могут брать другие банки, на карты которых вы отправите деньги. Чтобы узнать размер комиссии другого банка, напишите в нашу службу поддержки."
+
+#: src/components/Layout/Footer/Footer.tsx:136
+msgid "faq_heading"
+msgstr "Часто задаваемые вопросы"
+
+#: src/components/Layout/Footer/Footer.tsx:59
+msgid "faq_question_five"
+msgstr "Что делать, если получатель всё ещё не получил денежный перевод?"
+
+#: src/components/Layout/Footer/Footer.tsx:48
+msgid "faq_question_four"
+msgstr "Я сделал перевод через вас. Как быстро вы отправите деньги?"
+
+#: src/components/Layout/Footer/Footer.tsx:18
+msgid "faq_question_one"
+msgstr "Какой размер комиссии за перевод денег?"
+
+#: src/components/Layout/Footer/Footer.tsx:81
+msgid "faq_question_seven"
+msgstr "Что мне сделать ещё для безопасности моих данных?"
+
+#: src/components/Layout/Footer/Footer.tsx:70
+msgid "faq_question_six"
+msgstr "Безопасно ли мне отправлять через вас деньги?"
+
+#: src/components/Layout/Footer/Footer.tsx:39
+msgid "faq_question_three"
+msgstr "Какие лимиты при переводе?"
+
+#: src/components/Layout/Footer/Footer.tsx:28
+msgid "faq_question_two"
+msgstr "Есть ли комиссия при переводе денег из России в Таджикистан?"
+
+#: src/components/Layout/Footer/Footer.tsx:346
+msgid "footer_address"
+msgstr "734061, г. Душанбе, ул. Н. Карабаева, 148/1. "
+
+#: src/components/Layout/Footer/Footer.tsx:341
+msgid "footer_description"
+msgstr "Прогрессивная и одна из лидирующих микрофинансовых организаций в Таджикистане, предоставляющая банковские услуги более 100 тысячам клиентов."
+
+#: src/components/Layout/Footer/Footer.tsx:349
+msgid "footer_hotline"
+msgstr "Тел.: 544"
+
+#: src/components/Layout/Footer/Footer.tsx:354
+msgid "footer_license"
+msgstr "ЗАО МДО «Хумо» Лицензия НБТ №0000077 от 24 мая 2017 г."
+
+#: src/components/Layout/Footer/Footer.tsx:266
+msgid "hotline"
+msgstr "Горячая линия Хумо"
+
+#: src/pages/index.tsx:32
+#: src/pages/index.tsx:34
+msgid "meta_description"
+msgstr "Переводите деньги родным и близким в 20 стран мира. Доступны системы Visa, Mastercard, Корти Милли, Мир, и Uzcard. В приложении выгодный курс и минимальная комиссия за отправку денег."
+
+#: src/pages/index.tsx:37
+#: src/pages/index.tsx:41
+msgid "meta_site_name"
+msgstr "Хумо Переводы"
+
+#: src/pages/index.tsx:33
+#: src/pages/index.tsx:48
+msgid "meta_title"
+msgstr "Денежные переводы - быстро и с минимальной комиссией | Хумо Переводы"
+
+#: src/components/Layout/Footer/Footer.tsx:333
+msgid "product_agent_banking"
+msgstr "Агентский банкинг"
+
+#: src/components/Layout/Footer/Footer.tsx:278
+msgid "product_humo"
+msgstr "Хумо"
+
+#: src/components/Layout/Footer/Footer.tsx:289
+msgid "product_humo_online"
+msgstr "Хумо Онлайн"
+
+#: src/components/Layout/Footer/Footer.tsx:311
+msgid "product_orzu"
+msgstr "Орзу"
+
+#: src/components/Layout/Footer/Footer.tsx:300
+msgid "product_sarchashma"
+msgstr "Депозит — Сарчашма"
+
+#: src/components/Layout/Footer/Footer.tsx:322
+msgid "product_visa"
+msgstr "Карты Visa"
+
+#: src/components/Testimonials/Testimonials.tsx:114
+msgid "review_one"
+msgstr "Благодаря этому приложению, денежные переводы стали делом пары кликов. Просто и быстро."
+
+#: src/components/Testimonials/Testimonials.tsx:208
+msgid "review_two"
+msgstr "Это приложение для денежных переводов — самый удобный способ отправлять деньги без лишних заморочек."
+
+#: src/components/Testimonials/Testimonials.tsx:66
+msgid "reviews"
+msgstr "Отзывы"
+
+#: src/components/Download/Download.tsx:46
+msgid "scan_qr"
+msgstr "Наведите камеру и скачайте приложение Хумо Переводы"
+
+#: src/components/SellingPoints/SellingPoints.tsx:67
+msgid "selling_point_four"
+msgstr "5 платёжных систем для вашего удобства"
+
+#: src/components/SellingPoints/SellingPoints.tsx:21
+msgid "selling_point_one"
+msgstr "Один из самых выгодных курсов на рынке"
+
+#: src/components/SellingPoints/SellingPoints.tsx:52
+msgid "selling_point_three"
+msgstr "Приложение на нескольких языках"
+
+#: src/components/SellingPoints/SellingPoints.tsx:37
+msgid "selling_point_two"
+msgstr "Минимальная комиссия за переводы"
+
+#: src/components/Testimonials/Testimonials.tsx:121
+#: src/components/Testimonials/Testimonials.tsx:141
+#: src/components/Testimonials/Testimonials.tsx:183
+#: src/components/Testimonials/Testimonials.tsx:193
+msgid "topup"
+msgstr "Пополнение"
+
+#: src/components/Testimonials/Testimonials.tsx:131
+#: src/components/Testimonials/Testimonials.tsx:151
+#: src/components/Testimonials/Testimonials.tsx:203
+#: src/components/Testimonials/Testimonials.tsx:215
+msgid "transfer_to"
+msgstr "Перевод в"
+
+#: src/components/Testimonials/Testimonials.tsx:152
+msgid "transfer_to_germany"
+msgstr "Германию"
+
+#: src/components/Testimonials/Testimonials.tsx:216
+msgid "transfer_to_malaysia"
+msgstr "Малайзию"
+
+#: src/components/Testimonials/Testimonials.tsx:132
+msgid "transfer_to_south_korea"
+msgstr "Южную Корею"
+
+#: src/components/Testimonials/Testimonials.tsx:204
+msgid "transfer_to_turkey"
+msgstr "Турцию"
+
+#: src/components/Tutorial/Tutorial.tsx:71
+msgid "tutorial_heading_one"
+msgstr "Выберите страну для перевода"
+
+#: src/components/Tutorial/Tutorial.tsx:116
+msgid "tutorial_heading_three"
+msgstr "Введите данные получателя"
+
+#: src/components/Tutorial/Tutorial.tsx:95
+msgid "tutorial_heading_two"
+msgstr "Выберите тип перевода"
+
+#: src/components/Tutorial/Tutorial.tsx:75
+msgid "tutorial_sub_heading_one"
+msgstr "Вы можете выбрать страну из популярных. Если вам нужная другая, нажмите на «Отправить переводы». Там появится список всех доступных стран."
+
+#: src/components/Tutorial/Tutorial.tsx:119
+msgid "tutorial_sub_heading_three"
+msgstr "Для завершения перевода введите данные получателя. Выберите счет для списания средств. Укажите сумму перевода и подтвердите. Деньги уже у получателя."
+
+#: src/components/Tutorial/Tutorial.tsx:98
+msgid "tutorial_sub_heading_two"
+msgstr "Определите нужный тип перевода: по номеру телефону или на банковскую карту. Нажмите продолжить."
+
+#: src/components/Tutorial/Tutorial.tsx:65
+msgid "tutorials_heading"
+msgstr "Как совершить перевод"

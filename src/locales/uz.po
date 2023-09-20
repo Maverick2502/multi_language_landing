@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: uz\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:13
+msgid "advantage_one"
+msgstr "Pul o'tkazmalari maqbul kurs asosida"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:25
+msgid "advantage_three"
+msgstr "Shaxsiy ma'lumotlaringiz himoyalangan."
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:19
+msgid "advantage_two"
+msgstr "Pul yuborish uchun komissiya 0% dan 2,5% gacha"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:35
+msgid "advantages_heading"
+msgstr "Ilova afzalliklari"
+
+#: src/components/Download/Download.tsx:21
+msgid "app_humo_transfers"
+msgstr "«Humo O'tkazmalar» ilovasi"
+
+#: src/components/Banner/Banner.tsx:42
+msgid "banner_sub_tagline"
+msgstr "Pulni 20+ dunyo mamlakatiga mashhur to'lov tizimlari orqali o'tkazing"
+
+#: src/components/Banner/Banner.tsx:38
+msgid "banner_tagline"
+msgstr "Bir ilova barcha pul o'tkazmalari uchun"
+
+#: src/components/Testimonials/Testimonials.tsx:194
+msgid "currency_name_tj"
+msgstr "somoni"
+
+#: src/components/Banner/Banner.tsx:51
+msgid "download_app"
+msgstr "Yuklab olish"
+
+#: src/components/Layout/Footer/Footer.tsx:61
+msgid "faq_answer_five"
+msgstr "Agar pulingiz oluvchiga etib bormagan bo'lsa va bir necha soat o'tgan bo'lsa, tashvishlanmang. Tranzaksiya hali amalga oshirilmagan bo'lishi mumkin. Kontakt markazimizga (+992) 88-777-55-44 yoki 544 raqamlari orqali murojaat qiling. Shuningdek, ilovaning “Yordam” bo‘limi orqali bizga yozishingiz mumkin. Bizning mutaxassislarimiz sizga albatta yordam berishadi"
+
+#: src/components/Layout/Footer/Footer.tsx:50
+msgid "faq_answer_four"
+msgstr "Aksariyat hollarda biz bir zumda pul jo'natamiz. E'tibor bering, pul o'tkazmasini bajarish uchun zarur bo'lgan vaqt qabul qiluvchining kartasini chiqargan bankka bog'liq. Shuning uchun kamdan-kam hollarda pul o'tkazish 3 kungacha davom etishi mumkin."
+
+#: src/components/Layout/Footer/Footer.tsx:20
+msgid "faq_answer_one"
+msgstr "Pul o'tkazmasi uchun komissiya mamlakatga va o'tkazish usuliga qarab farq qilishi mumkin - 0 dan 2,5% gacha. Komissiyaning aniq miqdori o'tkazmani tasdiqlashdan oldin ariza ichida ko'rsatiladi."
+
+#: src/components/Layout/Footer/Footer.tsx:84
+msgid "faq_answer_seven"
+msgstr "Ilovada ishlashda sizning pulingiz va shaxsiy ma'lumotlaringizni himoya qilish uchun hamma narsani qilamiz. Ammo to'liq xavfsizlik uchun quyidagi qoidalarga amal qiling:"
+
+#: src/components/Layout/Footer/Footer.tsx:108
+msgid "faq_answer_seven_sub_five"
+msgstr "- Qo'shimcha himoya qilish uchun telefoningizga parol o'rnating."
+
+#: src/components/Layout/Footer/Footer.tsx:103
+msgid "faq_answer_seven_sub_four"
+msgstr "- Agar siz telefon raqamingizni o'zgartirgan bo'lsangiz, 544 raqamiga qo'ng'iroq qilib, bankka xabar bering;"
+
+#: src/components/Layout/Footer/Footer.tsx:89
+msgid "faq_answer_seven_sub_one"
+msgstr "- Hech qachon mobil ilova parolingizni hech kim bilan baham ko'rmang;"
+
+#: src/components/Layout/Footer/Footer.tsx:100
+msgid "faq_answer_seven_sub_three"
+msgstr "- Agar siz telefoningizni yo'qotib qo'ysangiz, darhol SIM kartani blokirovka qiling;"
+
+#: src/components/Layout/Footer/Footer.tsx:94
+msgid "faq_answer_seven_sub_two"
+msgstr "- Android va iOS qurilmalariga yuklab olish uchun faqat Google Play va App Store’da mavjud bo‘lgan bankning rasmiy ilovalaridan foydalaning;"
+
+#: src/components/Layout/Footer/Footer.tsx:72
+msgid "faq_answer_six"
+msgstr "Albatta. Biz sizning ma'lumotlaringiz xavfsizligi va maxfiyligi haqida qayg'uramiz. Ilovamizdagi barcha moliyaviy operatsiyalar zamonaviy ma'lumotlarni shifrlash texnologiyalari yordamida himoyalangan. O'tkazmalaringiz xavfsizligini ta'minlash uchun biz ma'lumotlarni himoya qilish va maxfiylik qonunlari va qoidalariga qat'iy rioya qilamiz."
+
+#: src/components/Layout/Footer/Footer.tsx:41
+msgid "faq_answer_three"
+msgstr "Minimal o'tkazma summasi - 500 rubl, maksimal summasi - 50 000 rubl."
+
+#: src/components/Layout/Footer/Footer.tsx:30
+msgid "faq_answer_two"
+msgstr "Ha. Rossiyadan Tojikistonga pul o'tkazish komissiyasi 0,5% ni tashkil qiladi. Shuningdek, siz kartalariga pul yuboradigan boshqa banklar komissiya olishlari mumkin. Boshqa bankning komissiya miqdorini bilish uchun bizning qo'llab-quvvatlash guruhimizga yozing."
+
+#: src/components/Layout/Footer/Footer.tsx:136
+msgid "faq_heading"
+msgstr "Tez-tez so'raladigan savollar"
+
+#: src/components/Layout/Footer/Footer.tsx:59
+msgid "faq_question_five"
+msgstr "Qabul qiluvchi hali ham pul o'tkazmasini olmagan bo'lsa, nima qilishim kerak?"
+
+#: src/components/Layout/Footer/Footer.tsx:48
+msgid "faq_question_four"
+msgstr "Men siz orqali transfer qildim. Qanchalik tez pul yuborishingiz mumkin?"
+
+#: src/components/Layout/Footer/Footer.tsx:18
+msgid "faq_question_one"
+msgstr "Pul o'tkazmasi uchun to'lov qancha?"
+
+#: src/components/Layout/Footer/Footer.tsx:81
+msgid "faq_question_seven"
+msgstr "Maʼlumotlarimni xavfsiz saqlash uchun yana nima qilishim mumkin?"
+
+#: src/components/Layout/Footer/Footer.tsx:70
+msgid "faq_question_six"
+msgstr "Siz orqali pul yuborishim xavfsizmi?"
+
+#: src/components/Layout/Footer/Footer.tsx:39
+msgid "faq_question_three"
+msgstr "Pul o'tkazish cheklovlari qanday?"
+
+#: src/components/Layout/Footer/Footer.tsx:28
+msgid "faq_question_two"
+msgstr "Rossiyadan Tojikistonga pul o'tkazishda komissiya bormi?"
+
+#: src/components/Layout/Footer/Footer.tsx:346
+msgid "footer_address"
+msgstr "734061, Dushanbe shahri, N. Karabaeva ko'chasi, 148/1. "
+
+#: src/components/Layout/Footer/Footer.tsx:341
+msgid "footer_description"
+msgstr "Tadjikistonda progressiv va etakchi mikro-moliya tashkilotlari bo'lib, 100 mingtaga yaqin mijozlarga bank xizmatlarini taqdim etadi."
+
+#: src/components/Layout/Footer/Footer.tsx:349
+msgid "footer_hotline"
+msgstr "Tel.: 544"
+
+#: src/components/Layout/Footer/Footer.tsx:354
+msgid "footer_license"
+msgstr "ZAO MDO «HUMO» NBT litsenziyasi №0000077, 2017 yil 24-maydan boshlab."
+
+#: src/components/Layout/Footer/Footer.tsx:266
+msgid "hotline"
+msgstr "Humo Urganch xatt-ixtiyor"
+
+#: src/pages/index.tsx:32
+#: src/pages/index.tsx:34
+msgid "meta_description"
+msgstr "Dunyoning 20 mamlakatidagi yaqinlaringizga va doʼstlaringizga pul oʼtkazing. Visa, Mastercard, korti Milli, Mir, va Uzcard tizimlari mavjud.Dasturda qulay tikish va pul yuborish uchun minimal komissiya mavjud."
+
+#: src/pages/index.tsx:37
+#: src/pages/index.tsx:41
+msgid "meta_site_name"
+msgstr "Humo oʼtkazmalari"
+
+#: src/pages/index.tsx:33
+#: src/pages/index.tsx:48
+msgid "meta_title"
+msgstr "Pul oʼtkazmalari-tez va minimal komissiyasi | Humo oʼtkazmalari"
+
+#: src/components/Layout/Footer/Footer.tsx:333
+msgid "product_agent_banking"
+msgstr "Agent Banki"
+
+#: src/components/Layout/Footer/Footer.tsx:278
+msgid "product_humo"
+msgstr "Humo"
+
+#: src/components/Layout/Footer/Footer.tsx:289
+msgid "product_humo_online"
+msgstr "Humo Online"
+
+#: src/components/Layout/Footer/Footer.tsx:311
+msgid "product_orzu"
+msgstr "Orzu"
+
+#: src/components/Layout/Footer/Footer.tsx:300
+msgid "product_sarchashma"
+msgstr "Depozit - Sarchashma"
+
+#: src/components/Layout/Footer/Footer.tsx:322
+msgid "product_visa"
+msgstr "Visa kartalari"
+
+#: src/components/Testimonials/Testimonials.tsx:114
+msgid "review_one"
+msgstr "Ushbu ilova orqali pul o'tkazmalari bir necha bosqichda amalga oshirish mumkin bo'ldi. Sodda va tezkor."
+
+#: src/components/Testimonials/Testimonials.tsx:208
+msgid "review_two"
+msgstr "Pul o'tkazmalar uchun bu ilovadek qulay usul yo'q, tez va qulay pul yuborishning eng yaxshi usuli."
+
+#: src/components/Testimonials/Testimonials.tsx:66
+msgid "reviews"
+msgstr "Sharhlar"
+
+#: src/components/Download/Download.tsx:46
+msgid "scan_qr"
+msgstr "Kamerani yoqib, «Humo O'tkazmalar» ilovasini yuklab oling"
+
+#: src/components/SellingPoints/SellingPoints.tsx:67
+msgid "selling_point_four"
+msgstr "Sizning qulayliklaringiz uchun 5 to'lov tizimi"
+
+#: src/components/SellingPoints/SellingPoints.tsx:21
+msgid "selling_point_one"
+msgstr "Bozorda eng maqbul kurslaridan biri"
+
+#: src/components/SellingPoints/SellingPoints.tsx:52
+msgid "selling_point_three"
+msgstr "Ilovani bir nechta tillarda ishlatish imkoniyati"
+
+#: src/components/SellingPoints/SellingPoints.tsx:37
+msgid "selling_point_two"
+msgstr "O'tkazmalarga minimal komissiyalar"
+
+#: src/components/Testimonials/Testimonials.tsx:121
+#: src/components/Testimonials/Testimonials.tsx:141
+#: src/components/Testimonials/Testimonials.tsx:183
+#: src/components/Testimonials/Testimonials.tsx:193
+msgid "topup"
+msgstr "Qo'shimcha"
+
+#: src/components/Testimonials/Testimonials.tsx:131
+#: src/components/Testimonials/Testimonials.tsx:151
+#: src/components/Testimonials/Testimonials.tsx:203
+#: src/components/Testimonials/Testimonials.tsx:215
+msgid "transfer_to"
+msgstr "O'tkazma"
+
+#: src/components/Testimonials/Testimonials.tsx:152
+msgid "transfer_to_germany"
+msgstr "Germaniyaga"
+
+#: src/components/Testimonials/Testimonials.tsx:216
+msgid "transfer_to_malaysia"
+msgstr "Malayziyaga"
+
+#: src/components/Testimonials/Testimonials.tsx:132
+msgid "transfer_to_south_korea"
+msgstr "Janubiy Koreyaga"
+
+#: src/components/Testimonials/Testimonials.tsx:204
+msgid "transfer_to_turkey"
+msgstr "Turkiyaga"
+
+#: src/components/Tutorial/Tutorial.tsx:71
+msgid "tutorial_heading_one"
+msgstr "O'tkazish uchun mamlakatni tanlang"
+
+#: src/components/Tutorial/Tutorial.tsx:116
+msgid "tutorial_heading_three"
+msgstr "Olingan ma'lumotlarni kiriting"
+
+#: src/components/Tutorial/Tutorial.tsx:95
+msgid "tutorial_heading_two"
+msgstr "O'tkazma turlarini tanlang"
+
+#: src/components/Tutorial/Tutorial.tsx:75
+msgid "tutorial_sub_heading_one"
+msgstr "Siz ommabop mamlakatni tanlashingiz mumkin. Agar sizga zarur bo'lsa, «O'tkazmalarni yuborish» tugmasini bosing. Shu erda mavjud bo'lgan barcha mamlakatlar ro'yxati paydo bo'ladi."
+
+#: src/components/Tutorial/Tutorial.tsx:119
+msgid "tutorial_sub_heading_three"
+msgstr "O'tkazmani yakunlash uchun qabul qiluvchining ma'lumotlarini kiriting. O'tkazish uchun hisobni tanlang. O'tkazmaning miqdorini ko'rsating va tasdiqlang. Pul olinganiga ishontirishilmadi."
+
+#: src/components/Tutorial/Tutorial.tsx:98
+msgid "tutorial_sub_heading_two"
+msgstr "Zarur o'tkazma turini aniqlang: telefon raqami yoki bank karta bo'yicha. Davom ettirish tugmasini bosing."
+
+#: src/components/Tutorial/Tutorial.tsx:65
+msgid "tutorials_heading"
+msgstr "O'tkazma qanday amalga oshirish"

@@ -1,0 +1,277 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: en\n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:13
+msgid "advantage_one"
+msgstr "Money transfers at a favorable exchange rate"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:25
+msgid "advantage_three"
+msgstr "Security of your personal data"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:19
+msgid "advantage_two"
+msgstr "Commission from 0% to 2,5% for sending money"
+
+#: src/components/CardAdvantages/CardAdvantages.tsx:35
+msgid "advantages_heading"
+msgstr "Advantages of the application"
+
+#: src/components/Download/Download.tsx:21
+msgid "app_humo_transfers"
+msgstr "Humo Transfers App"
+
+#: src/components/Banner/Banner.tsx:42
+msgid "banner_sub_tagline"
+msgstr "Transfer money to 20+ countries worldwide through popular payment systems"
+
+#: src/components/Banner/Banner.tsx:38
+msgid "banner_tagline"
+msgstr "One application for all money transfers"
+
+#: src/components/Testimonials/Testimonials.tsx:194
+msgid "currency_name_tj"
+msgstr "somoni"
+
+#: src/components/Banner/Banner.tsx:51
+msgid "download_app"
+msgstr "Download"
+
+#: src/components/Layout/Footer/Footer.tsx:61
+msgid "faq_answer_five"
+msgstr "If your money has not reached the recipient and several hours have passed, don't worry. It is possible that the transaction has not been processed yet. Contact our contact center at (+992) 88-777-55-44 or 544. You can also reach us through the Help section in the app. Our specialists will assist you."
+
+#: src/components/Layout/Footer/Footer.tsx:50
+msgid "faq_answer_four"
+msgstr "In most cases, we send the money instantly. However, the time required to complete the transfer depends on the recipient's bank. In rare cases, it may take up to 3 days."
+
+#: src/components/Layout/Footer/Footer.tsx:20
+msgid "faq_answer_one"
+msgstr "The commission fee for money transfers can vary depending on the country and the method of transfer, ranging from 0 to 2.5%. The exact fee will be indicated within the app before confirming the transfer."
+
+#: src/components/Layout/Footer/Footer.tsx:84
+msgid "faq_answer_seven"
+msgstr "We take every measure to protect your money and personal information while using the app. However, to ensure complete security, follow these guidelines:"
+
+#: src/components/Layout/Footer/Footer.tsx:108
+msgid "faq_answer_seven_sub_five"
+msgstr "- Set a password on your phone for additional protection."
+
+#: src/components/Layout/Footer/Footer.tsx:103
+msgid "faq_answer_seven_sub_four"
+msgstr "- If you change your phone number, inform the bank by calling 544;"
+
+#: src/components/Layout/Footer/Footer.tsx:89
+msgid "faq_answer_seven_sub_one"
+msgstr "- Never share your password for logging into the mobile app with anyone;"
+
+#: src/components/Layout/Footer/Footer.tsx:100
+msgid "faq_answer_seven_sub_three"
+msgstr "- If you lose your phone, immediately block the SIM card;"
+
+#: src/components/Layout/Footer/Footer.tsx:94
+msgid "faq_answer_seven_sub_two"
+msgstr "- Only use official bank apps available for download on Google Play and the App Store for Android and iOS devices;"
+
+#: src/components/Layout/Footer/Footer.tsx:72
+msgid "faq_answer_six"
+msgstr "Absolutely. We prioritize the security and confidentiality of your data. All financial operations in our app are protected using modern data encryption technologies. We strictly adhere to data protection and privacy laws and regulations to ensure the security of your transfers."
+
+#: src/components/Layout/Footer/Footer.tsx:41
+msgid "faq_answer_three"
+msgstr "The minimum transfer amount is 500 rubles, and the maximum amount is 50,000 rubles."
+
+#: src/components/Layout/Footer/Footer.tsx:30
+msgid "faq_answer_two"
+msgstr "Yes, there is a commission fee for transferring money from Russia to Tajikistan, which is 0.5%. Other banks may also charge a fee for receiving money on their cards. To find out the fee charged by another bank, please contact our customer support."
+
+#: src/components/Layout/Footer/Footer.tsx:136
+msgid "faq_heading"
+msgstr "Frequently asked questions"
+
+#: src/components/Layout/Footer/Footer.tsx:59
+msgid "faq_question_five"
+msgstr "What should I do if the recipient has not received the money yet?"
+
+#: src/components/Layout/Footer/Footer.tsx:48
+msgid "faq_question_four"
+msgstr "I made a transfer through your service. How quickly will you send the money?"
+
+#: src/components/Layout/Footer/Footer.tsx:18
+msgid "faq_question_one"
+msgstr "What is the commission fee for money transfers?"
+
+#: src/components/Layout/Footer/Footer.tsx:81
+msgid "faq_question_seven"
+msgstr "What else can I do to ensure the security of my data?"
+
+#: src/components/Layout/Footer/Footer.tsx:70
+msgid "faq_question_six"
+msgstr "Is it safe to send money through your service?"
+
+#: src/components/Layout/Footer/Footer.tsx:39
+msgid "faq_question_three"
+msgstr "What are the limits for transfers?"
+
+#: src/components/Layout/Footer/Footer.tsx:28
+msgid "faq_question_two"
+msgstr "Is there a commission fee for transferring money from Russia to Tajikistan?"
+
+#: src/components/Layout/Footer/Footer.tsx:346
+msgid "footer_address"
+msgstr "734061, Dushanbe city, N. Karabaeva street, 148/1. "
+
+#: src/components/Layout/Footer/Footer.tsx:341
+msgid "footer_description"
+msgstr "Progressive and one of the leading microfinance organizations in Tajikistan, providing banking services to over 100,000 clients."
+
+#: src/components/Layout/Footer/Footer.tsx:349
+msgid "footer_hotline"
+msgstr "Tel.: 544"
+
+#: src/components/Layout/Footer/Footer.tsx:354
+msgid "footer_license"
+msgstr "CJSC MDO «Humo» License NBT №0000077 dated May 24, 2017."
+
+#: src/components/Layout/Footer/Footer.tsx:266
+msgid "hotline"
+msgstr "Hotline"
+
+#: src/pages/index.tsx:32
+#: src/pages/index.tsx:34
+msgid "meta_description"
+msgstr "Send money online to your family and friends in 20 global destinations. Use any of these payment methods: Visa, Mastercard, Korti Milli, Mir, or Uzcard. Enjoy low fees and advantageous exchange rates with our app."
+
+#: src/pages/index.tsx:37
+#: src/pages/index.tsx:41
+msgid "meta_site_name"
+msgstr "Humo Transfers"
+
+#: src/pages/index.tsx:33
+#: src/pages/index.tsx:48
+msgid "meta_title"
+msgstr "Send money with ease and low fees with Humo Transfers"
+
+#: src/components/Layout/Footer/Footer.tsx:333
+msgid "product_agent_banking"
+msgstr "Agent Banking"
+
+#: src/components/Layout/Footer/Footer.tsx:278
+msgid "product_humo"
+msgstr "Humo"
+
+#: src/components/Layout/Footer/Footer.tsx:289
+msgid "product_humo_online"
+msgstr "Humo Online"
+
+#: src/components/Layout/Footer/Footer.tsx:311
+msgid "product_orzu"
+msgstr "Orzu"
+
+#: src/components/Layout/Footer/Footer.tsx:300
+msgid "product_sarchashma"
+msgstr "Deposit - Sarchashma"
+
+#: src/components/Layout/Footer/Footer.tsx:322
+msgid "product_visa"
+msgstr "Visa cards"
+
+#: src/components/Testimonials/Testimonials.tsx:114
+msgid "review_one"
+msgstr "With this app, money transfers have become a matter of a few clicks. Simple and fast."
+
+#: src/components/Testimonials/Testimonials.tsx:208
+msgid "review_two"
+msgstr "This app for money transfers is the most convenient way to send money without any hassle."
+
+#: src/components/Testimonials/Testimonials.tsx:66
+msgid "reviews"
+msgstr "Reviews"
+
+#: src/components/Download/Download.tsx:46
+msgid "scan_qr"
+msgstr "Point the camera and download the Humo Transfers App"
+
+#: src/components/SellingPoints/SellingPoints.tsx:67
+msgid "selling_point_four"
+msgstr "5 payment systems for your convenience"
+
+#: src/components/SellingPoints/SellingPoints.tsx:21
+msgid "selling_point_one"
+msgstr "One of the most advantageous exchange rates on the market"
+
+#: src/components/SellingPoints/SellingPoints.tsx:52
+msgid "selling_point_three"
+msgstr "Application available in multiple languages"
+
+#: src/components/SellingPoints/SellingPoints.tsx:37
+msgid "selling_point_two"
+msgstr "Minimum fees for transfers"
+
+#: src/components/Testimonials/Testimonials.tsx:121
+#: src/components/Testimonials/Testimonials.tsx:141
+#: src/components/Testimonials/Testimonials.tsx:183
+#: src/components/Testimonials/Testimonials.tsx:193
+msgid "topup"
+msgstr "Topup"
+
+#: src/components/Testimonials/Testimonials.tsx:131
+#: src/components/Testimonials/Testimonials.tsx:151
+#: src/components/Testimonials/Testimonials.tsx:203
+#: src/components/Testimonials/Testimonials.tsx:215
+msgid "transfer_to"
+msgstr "Transfer to"
+
+#: src/components/Testimonials/Testimonials.tsx:152
+msgid "transfer_to_germany"
+msgstr "Germany"
+
+#: src/components/Testimonials/Testimonials.tsx:216
+msgid "transfer_to_malaysia"
+msgstr "Malaysia"
+
+#: src/components/Testimonials/Testimonials.tsx:132
+msgid "transfer_to_south_korea"
+msgstr "South Korea"
+
+#: src/components/Testimonials/Testimonials.tsx:204
+msgid "transfer_to_turkey"
+msgstr "Turkey"
+
+#: src/components/Tutorial/Tutorial.tsx:71
+msgid "tutorial_heading_one"
+msgstr "Select country for the transfer"
+
+#: src/components/Tutorial/Tutorial.tsx:116
+msgid "tutorial_heading_three"
+msgstr "Enter the recipient's details"
+
+#: src/components/Tutorial/Tutorial.tsx:95
+msgid "tutorial_heading_two"
+msgstr "Select transfer type"
+
+#: src/components/Tutorial/Tutorial.tsx:75
+msgid "tutorial_sub_heading_one"
+msgstr "You can choose a country from the popular ones. If you need another country, click on «Send transfers». A list of all available countries will appear there"
+
+#: src/components/Tutorial/Tutorial.tsx:119
+msgid "tutorial_sub_heading_three"
+msgstr "To complete the transfer, enter the recipient's details. Choose the account for debit. Specify the transfer amount and confirm. The money is already with the recipient"
+
+#: src/components/Tutorial/Tutorial.tsx:98
+msgid "tutorial_sub_heading_two"
+msgstr "Determine transfer type: by phone number or to a bank card. Click continue"
+
+#: src/components/Tutorial/Tutorial.tsx:65
+msgid "tutorials_heading"
+msgstr "How to make a transfer"

@@ -1,0 +1,285 @@
+@import "../../../styles/variables";
+@import "../../../styles/mixins";
+
+.component {
+  background: #16191d;
+  padding: 80px 40px;
+
+  @media (max-width: $breakpoint-lg) {
+    padding: 80px 20px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    padding: 24px 20px;
+  }
+}
+
+.container {
+  max-width: $desktop-width;
+  margin: 0 auto;
+
+  @media (max-width: $breakpoint-lg) {
+    max-width: $tablet-width;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    max-width: auto;
+  }
+}
+
+.faq {
+  margin-bottom: 154px;
+
+  @media (max-width: $breakpoint-lg) {
+    margin-bottom: 96px;
+  }
+
+  &_title {
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 100%;
+
+    color: #fff;
+    text-align: center;
+
+    margin-bottom: 120px;
+
+    @media (max-width: $breakpoint-lg) {
+      font-size: 36px;
+
+      margin-bottom: 58px;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+      font-size: 28px;
+    }
+  }
+}
+
+.button {
+  font-size: 32px;
+  color: #fff;
+  font-weight: 700;
+  text-align: left;
+
+  width: 100%;
+
+  @include position_element(space-between, center);
+
+  padding: 24px 0px;
+
+  border: none;
+  background: none;
+
+  cursor: pointer;
+
+  @media (max-width: $breakpoint-lg) {
+    font-size: 24px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    font-size: 20px;
+    padding: 16px 0px;
+  }
+
+  &_arrow {
+    @media (max-width: $breakpoint-lg) and (min-width: 0) {
+      height: 32px;
+      width: 32px;
+    }
+  }
+}
+
+.answer {
+  padding: 0 0 24px 0;
+
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+
+  @media (max-width: $breakpoint-lg) {
+    font-size: 20px;
+  }
+
+  @media (max-width: $breakpoint-sm) {
+    font-size: 16px;
+    padding: 0 0 16px 0;
+  }
+}
+
+.answer_wrapper {
+  height: 0;
+  overflow: hidden;
+  transition: height ease 0.2s;
+}
+
+// .answer_wrapper.open {
+//   height: auto;
+// }
+
+.hr {
+  background-color: #323438;
+  height: 3px;
+  border: none;
+  border-radius: 28px;
+}
+
+.footer {
+  &_logo {
+    @media (max-width: $breakpoint-lg) and (min-width: 0) {
+      width: 115px;
+      height: auto;
+    }
+  }
+
+  &_links {
+    @include position_element(space-between, center);
+
+    @media (max-width: $breakpoint-sm) {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+
+      gap: 16px;
+    }
+  }
+
+  &_socials {
+    display: flex;
+    gap: 10px;
+
+    & > li {
+      list-style: none;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+
+    &_img {
+      @media (max-width: $breakpoint-lg) {
+        width: 32px;
+        height: 32px;
+      }
+    }
+  }
+
+  &_information {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+
+    @media (max-width: $breakpoint-lg) {
+      display: grid;
+      gap: 24px;
+    }
+  }
+
+  &_contactDetails {
+    display: flex;
+    flex-direction: column;
+
+    & > a {
+      color: #fff;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 130%;
+    }
+
+    & > span {
+      color: #848689;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 130%;
+    }
+  }
+
+  &_products {
+    display: flex;
+    gap: 24px;
+
+    @media (max-width: $breakpoint-lg) {
+      gap: 12px;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    & > li > a {
+      color: #848689;
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+
+      @media (max-width: $breakpoint-sm) {
+        font-size: 12px;
+      }
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
+
+  &_companyInformation {
+    padding: 24px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+
+    @media (max-width: $breakpoint-lg) {
+      flex-direction: column;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+      padding: 16px 0px;
+    }
+
+    & > span,
+    address,
+    a {
+      display: inline;
+      color: #848689;
+      font-size: 12px;
+      font-weight: 400;
+      line-height: normal;
+      font-style: normal;
+
+      &:first-of-type {
+        max-width: 760px;
+      }
+
+      &:nth-child(2) {
+        width: 500px;
+
+        text-align: right;
+
+        @media (max-width: $breakpoint-lg) {
+          text-align: start;
+        }
+
+        @media (max-width: $breakpoint-sm) {
+          width: auto;
+        }
+      }
+    }
+  }
+}
+
+.hr_footer {
+  height: 1px;
+  border-radius: 28px;
+  background: #323438;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
